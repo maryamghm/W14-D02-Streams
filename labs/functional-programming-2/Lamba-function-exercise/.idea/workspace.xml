@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b49fb30-ed20-4499-9df6-9dd378082dd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lamba-function-exercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparator/ComparatorExampleWithLambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparator/ComparatorExampleWithoutLambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparator/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsumerWithLambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsumerWithLambdaSimpleExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionalInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionalInterfaceWithlambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredicateWithLamda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredicateWithoutLambdaExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveIfExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentSupplierExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SupplierSimpleExampleWithLambda.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5b49fb30-ed20-4499-9df6-9dd378082dd7" name="Changes" comment="implements Lambda-function-exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736852476933</updated>
     </task>
+    <task id="LOCAL-00001" summary="implements Lambda-function-exercise">
+      <option name="closed" value="true" />
+      <created>1736857707883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736857707883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implements Lambda-function-exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="implements Lambda-function-exercise" />
   </component>
 </project>
