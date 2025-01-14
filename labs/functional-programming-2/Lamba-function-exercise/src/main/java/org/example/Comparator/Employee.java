@@ -1,4 +1,4 @@
-package Comparator;
+package org.example.Comparator;
 
 public class Employee {
     private Integer id;
@@ -51,4 +51,6 @@ public class Employee {
     public String toString() {
         return "\n["+this.id+","+this.firstName+","+this.lastName+","+this.age+"]";
     }
+
+
 }
